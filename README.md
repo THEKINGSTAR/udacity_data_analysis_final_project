@@ -1,6 +1,12 @@
-![alt text](</res/Udacity_logo.png>)
+
+```16-3-2021```
 
 # ```Udacity Data Analysis Project```
+
+![alt text](</res/Udacity_logo.png>)
+
+# ```Extracted Twitter Sentiment For Analysis Project```
+
 ![alt text](res/dogo.png)
 
 IN project to figure out what people tweet about there dog , name, stage , and what other think about dogs how they rating them as if ther wewere neighbor  dog !!
@@ -18,7 +24,17 @@ IN project to figure out what people tweet about there dog , name, stage , and w
 
 # ```Reports```
 
-[Wrangle Report](./reports/wrangle_report.pdf)
-[Act Report](./reports/act_report.pdf)
+## ```PDF```
+
+>- [Wrangle Report](./reports/wrangle_report.pdf)
+>- [Act Report](./reports/act_report.pdf)
+
+## ```ipyhb```
+
+>- [Wrangle Act](reports/wrangle_act.ipynb)
+>- [Wrangle Report](reports/wrangle_report.ipynb)
+
 
 ## ```Udacity all right reserved```
+
+
